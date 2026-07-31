@@ -13,7 +13,7 @@ import TestimonialPage from './Pages/TestimonialPage'
 import ContactusPage from './Pages/ContactusPage'
 
 import SignupPage from './Pages/SignupPage'
-import LoginPage from './Pages/loginPage'
+import LoginPage from "./Pages/LoginPage";
 
 import ProfilePage from './Pages/User/ProfilePage'
 import CartPage from './Pages/User/CartPage'
